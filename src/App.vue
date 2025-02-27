@@ -1,11 +1,11 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
-import HelloMe from './components/HelloMe.vue'
-import Pertemuan3 from './components/Pertemuan3.vue';
+
+import Pertemuan4 from './components/Pertemuan4.vue';
 </script>
 
 <template>
-  <Pertemuan3/>
+  <Pertemuan4/>
+  <!-- <Pertemuan3/> -->
   <!-- <HelloWorld message="Hello World"/> -->
 </template>
 
